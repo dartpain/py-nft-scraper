@@ -9,7 +9,9 @@ It scrapes collections and saves data in a csv
 
 # How to install
 Install dependencies:
+
 `pip install -r requirements.txt`
+
 Open .env-sample, put your proxy details, save as .env
 
 # How to run
